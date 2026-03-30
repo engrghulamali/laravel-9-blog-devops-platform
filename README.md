@@ -43,7 +43,7 @@ If you have everything, you can run these commands:
 
 ```
 # Clone this respository
-> git clone https://github.com/Mati822456/Laravel-Blog-Website.git
+> git clone https://github.com/engrghulamali/laravel-9-blog-devops-platform.git
 
 # Go into the folder
 > cd Laravel-Blog-Website
@@ -126,4 +126,4 @@ Thanks <a href="https://www.flaticon.com/free-icons/blog" title="blog icons">Blo
 
 ## Contact
 
-Feel free to contact me via email mateusz.zaborski1@gmail.com. :D
+Feel free to contact me via email ghulamaliskils@gmail.com. :D
