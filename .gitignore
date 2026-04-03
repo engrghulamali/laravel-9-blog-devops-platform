@@ -16,3 +16,35 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+
+
+# ------------------------
+# Docker
+# ------------------------
+# Ignore container data and volumes
+docker_dbdata/
+docker_appdata/
+docker-compose.override.yml
+
+# Ignore built images (optional, usually not needed in git)
+/docker/*.tar
+/docker/*.img
+
+# Ignore Docker logs or temporary files
+*.log
+*.pid
+
+# ------------------------
+# Node / Frontend
+# ------------------------
+/public/build
+/public/mix-manifest.json
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+
+# ------------------------
+# OS Files
+# ------------------------
+.DS_Store
+Thumbs.db
